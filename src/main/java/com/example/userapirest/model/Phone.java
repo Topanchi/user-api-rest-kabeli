@@ -11,7 +11,6 @@ public class Phone {
     private Long number;
     private Long cityCode;
     private Long contryCode;
-    private User user;
     private Long user_id;
 
     @Id
@@ -39,10 +38,6 @@ public class Phone {
     @Column(name = "COUNTRY_CODE")
     public Long getContryCode() {return contryCode;}
     public void setContryCode(Long contryCode) {this.contryCode = contryCode;}
-
-    @ManyToOne
-    public User getUser() {return user;}
-    public void setUser(User user) {this.user = user;}
 
     @Column(name = "USER_ID")
     public Long getUser_id() {return user_id;}
