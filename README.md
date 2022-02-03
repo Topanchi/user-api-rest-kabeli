@@ -4,7 +4,7 @@
 
 Con algún IDe, como IntellJ, o algún IDE de desarrollo, se puede iniciar la aplicación, como en el caso del IDE mencionado, es dar click en el botón play.
 
-![img.png](img.png)
+![img.png](docs/img/img.png)
 
 
 ### ¿En qué puerto se ejecuta la aplicación?
