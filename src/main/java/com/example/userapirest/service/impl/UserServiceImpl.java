@@ -41,7 +41,6 @@ public class UserServiceImpl implements UserService {
             if(busqueda == null) {
                 this.setObject(user);
                 User userOut = this.userRepository.save(user);
-                userOut.getUser_id();
 
                 Phone phone = new Phone();
 
