@@ -22,7 +22,7 @@ En la url http://localhost:8080/h2
 * Password: cruduser
 * NOTA: La BD se creará al moento de iniciar la aplicación.
 
-![img_1.png](img_1.png)
+![img_1.png](docs/img/img_1.png)
 
 ### ¿Cómo revisar los endpoints?
 
@@ -30,12 +30,12 @@ Utilizando PostMan, se puede revisar los endpoints, como en el siguiente ejemplo
 
 http://localhost:8080/user/list-users
 
-![img_2.png](img_2.png)
+![img_2.png](docs/img/img_2.png)
 
 http://localhost:8080/user/save
 
-![img_3.png](img_3.png)
-![img_4.png](img_4.png)
+![img_3.png](docs/img/img_3.png)
+![img_4.png](docs/img/img_4.png)
 
 <a href="docs/ProyectoPostman/User-API-REST.postman_collection.json" download="User-API-REST.postman_collection.json">Descargar Proyecto postman</a>
 
